@@ -1,0 +1,509 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=latex 2011.7.3)  26 NOV 2011 16:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**tmp_kap
+(./tmp_kap.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/Users/hussein/Library/texmf/tex/latex/gp/gp.cls
+Document Class: gp 2011/08/14
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip41
+\f@ncyO@elh=\skip42
+\f@ncyO@erh=\skip43
+\f@ncyO@olh=\skip44
+\f@ncyO@orh=\skip45
+\f@ncyO@elf=\skip46
+\f@ncyO@erf=\skip47
+\f@ncyO@olf=\skip48
+\f@ncyO@orf=\skip49
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count79
+\calc@Bcount=\count80
+\calc@Adimen=\dimen102
+\calc@Bdimen=\dimen103
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count81
+\calc@Cskip=\skip52
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count82
+\mult@box=\box26
+\multicol@leftmargin=\dimen104
+\c@unbalance=\count83
+\c@collectmore=\count84
+\doublecol@number=\count85
+\multicoltolerance=\count86
+\multicolpretolerance=\count87
+\full@width=\dimen105
+\page@free=\dimen106
+\premulticols=\dimen107
+\postmulticols=\dimen108
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box27
+\last@line=\box28
+\mult@rightbox=\box29
+\mult@grightbox=\box30
+\mult@gfirstbox=\box31
+\mult@firstbox=\box32
+\@tempa=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\c@columnbadness=\count88
+\c@finalcolumnbadness=\count89
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box50
+\colbreak@box=\box51
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+)
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen116
+\extrarowheight=\dimen117
+\NC@list=\toks15
+\extratabsurround=\skip55
+\backup@length=\skip56
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/moreverb/moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\tab@position=\count90
+\tab@size=\count91
+\listing@line=\count92
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mparhack/mparhack.sty
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2003/08/11 v1.1 Covington's upright-quote modification to verb
+atim and verb
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2010/12/22  v0.6a: mdframed
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count93
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+\etb@tempcnta=\count94
+)
+\md@templength=\skip57
+\mdf@skipabove@length=\skip58
+\mdf@skipbelow@length=\skip59
+\mdf@leftmargin@length=\skip60
+\mdf@rightmargin@length=\skip61
+\mdf@margin@length=\skip62
+\mdf@innerleftmargin@length=\skip63
+\mdf@innerrightmargin@length=\skip64
+\mdf@innertopmargin@length=\skip65
+\mdf@innerbottommargin@length=\skip66
+\mdf@splittopskip@length=\skip67
+\mdf@splitbottomskip@length=\skip68
+\mdf@linewidth@length=\skip69
+\mdf@innerlinewidth@length=\skip70
+\mdf@middlelinewidth@length=\skip71
+\mdf@outerlinewidth@length=\skip72
+\mdf@roundcorner@length=\skip73
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-3.mdf 2010/12/22  v0.6a: md-frame-0
+)
+\md@temp@skip@a=\skip74
+\md@verticalmarginwhole@length=\skip75
+\mdf@xmargin@length=\skip76
+\mdf@ymargin@length=\skip77
+\mdfboxheight=\skip78
+\mdfboxwidth=\skip79
+\mdfboundingboxheight=\skip80
+\mdfboundingboxwidth=\skip81
+\mdfpositionx=\skip82
+\mdfpositiony=\skip83
+\md@freevspace@length=\skip84
+\md@horizontalspaceofbox=\skip85
+\md@temp@frame@hsize=\skip86
+\md@temp@frame@vsize=\skip87
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count95
+\c@chapter=\count96
+\c@section=\count97
+\c@subsection=\count98
+\c@subsubsection=\count99
+\c@paragraph=\count100
+\c@subparagraph=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip88
+\belowcaptionskip=\skip89
+\bibindent=\dimen118
+)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/ngermanb.ldf
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count104
+\U@D=\dimen119
+)
+\l@naustrian = a dialect from \language\l@ngerman 
+Package babel Info: Making " an active character on input line 92.
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+\everycr=\toks18
+\minrowclearance=\skip90
+)
+\passer@OriginRow=\skip91
+\passer@OriginCol=\skip92
+\passer@LineTmp=\skip93
+\passer@LineDepth=\skip94
+\c@gp@pna=\count105
+\c@gp@pnb=\count106
+\gp@hsize=\skip95
+\gp@fboxsep=\skip96
+\gpa@Schriftgroesse=\skip97
+\gpa@Zeilenabstand=\skip98
+\gpa@AbstandOben=\skip99
+\gpa@AbstandUnten=\skip100
+\gpa@AbstandObenAussen=\skip101
+\gpa@AbstandUntenLetzterAbsatz=\skip102
+\gpa@AbstandOben@=\skip103
+\gpa@AbstandUnten@=\skip104
+\gpa@AbstandUntenLetzterAbsatz@=\skip105
+\gpa@AbstandObenAussen@=\skip106
+\gpa@lastParskip@=\skip107
+\gpa@ErsteZeileNegEinzug=\skip108
+\gpa@LinkerRand=\skip109
+\gpa@RechterRand=\skip110
+\gpa@SchriftgroesseDefault=\skip111
+\gpa@ZeilenabstandDefault=\skip112
+\gpa@AbstandObenDefault=\skip113
+\gpa@AbstandUntenDefault=\skip114
+\gpFlatterrandProzent=\count107
+\gp@tmpFlatter=\skip115
+\gp@printA=\skip116
+\c@gp@ZoomFaktor=\count108
+\gp@skiplength=\skip117
+\gpa@compareValue=\skip118
+\c@gpm@abspage=\count109
+\gpm@marginparrightadjust=\skip119
+\gpm@marginparleftadjust=\skip120
+\gpm@marginparvadjust=\skip121
+\c@gpTeil=\count110
+\c@gpKapitel=\count111
+\c@gpAbschnitt=\count112
+\c@gpUnterabschnitt=\count113
+\c@gpAufzaehlung=\count114
+\c@gpAufzaehlungEbene=\count115
+\c@gpSchrittFuerSchritt=\count116
+\c@gpAbbildung=\count117
+\c@gpTabelle=\count118
+\c@gpListing=\count119
+Package color Info: Redefining color white on input line 1639.
+\positioninhead=\skip122
+\gp@headtopmargin=\skip123
+\c@gp@tmp=\count120
+\gpTabenVerticalSkip=\skip124
+\gpTabenHeight=\skip125
+\gpTabenDepth=\skip126
+\gpTabenWidth=\skip127
+\c@gpTabTmp=\count121
+\c@gpMaximaleTaben=\count122
+\gp@KastenBox=\box52
+\c@gp@gpKasten@InternalCounter=\count123
+\gp@gpKasten@skipabove=\skip128
+\gp@gpKasten@skipbelow=\skip129
+\gp@Balken@splittopskip=\skip130
+\gp@Balken@splitbottomskip=\skip131
+\gp@Balken@linewidth=\skip132
+\gp@balkensep=\skip133
+\gp@raise=\skip134
+\gpa@tmp=\skip135
+\gpa@tmp@=\skip136
+\gpa@tmp@@=\skip137
+\gp@ListingEinzug=\skip138
+\c@gpListingZeile=\count124
+\c@gpListingZeileMax=\count125
+\TabelleBox=\box53
+\gp@colstruth=\skip139
+\gp@colstrutd=\skip140
+\gp@pcolstruth=\skip141
+\gp@pcolstrutd=\skip142
+\c@gp@addPic@lastpage=\count126
+\c@gpPicXmlLastpage=\count127
+\gpPicXmlLastpage=\count128
+\@indexfile=\write3
+\openout3 = `tmp_kap.idx'.
+
+
+Writing index file tmp_kap.idx
+\gp@strutheight=\skip143
+\gp@strutdepth=\skip144
+\gp@TastenBox=\box54
+\gp@TastenLaenge=\count129
+\gp@TastenLaengeHalbe=\count130
+(/usr/local/texlive/2011/texmf-dist/tex/latex/eulervm/eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box55
+\UL@hyphenbox=\box56
+\UL@skip=\skip145
+\UL@hook=\toks19
+\UL@height=\dimen120
+\UL@pe=\count131
+\UL@pixel=\dimen121
+\ULC@box=\box57
+Package: ulem 2011/03/18
+\ULdepth=\dimen122
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+No file tmp_kap.aux.
+\openout1 = `tmp_kap.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Try loading font information for T1+lsx on input line 15.
+
+(/Users/hussein/Library/texmf/tex/latex/psnfss/t1lsx.fd
+File: t1lsx.fd 2011/02/21 Fontinst v1.801 font definitions for T1/lsx.
+)
+\big@size=\dimen123
+LaTeX Font Info:    Try loading font information for T1+lss on input line 15.
+
+(/Users/hussein/Library/texmf/tex/latex/psnfss/t1lss.fd
+File: t1lss.fd 2011/02/21 Fontinst v1.801 font definitions for T1/lss.
+)
+\tf@pic=\write4
+\openout4 = `tmp_kap.pic.xml'.
+
+
+(/Users/hussein/git-repos/railsbuch/buch_latex/trennung.tex)
+(/Users/hussein/git-repos/railsbuch/buch_latex/trennung.tex)
+\openout2 = `kap_app1.aux'.
+
+
+No file kap_app1.tex.
+(./tmp_kap.aux (./kap_app1.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4152 strings out of 493634
+ 59869 string characters out of 3143401
+ 129655 words of memory out of 3000000
+ 7352 multiletter control sequences out of 15000+200000
+ 11626 words of font info for 17 fonts, out of 3000000 for 9000
+ 855 hyphenation exceptions out of 8191
+ 44i,1n,45p,861b,148s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.
