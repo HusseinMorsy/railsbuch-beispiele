@@ -1,0 +1,26 @@
+<h1>Booking of <%= @flight.nr %></h1>
+
+<%= form_for([@flight, @booking]) do |f| %>
+
+  <% if @booking.errors.any? %>
+    <div id="error_explanation">
+      <ul>
+      <% @booking.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+  
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.email_field :email %>
+  </div>
+  <div class="actions">
+    <%= f.submit "pay" %>
+  </div>
+<% end %>
