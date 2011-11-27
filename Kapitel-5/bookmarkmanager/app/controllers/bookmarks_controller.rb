@@ -1,7 +1,7 @@
 # encoding: utf-8
-
 class BookmarksController < ApplicationController
   before_filter :require_login
+  
   def index
     @bookmarks = current_user.bookmarks
   end
@@ -11,9 +11,9 @@ class BookmarksController < ApplicationController
   end
   
   def edit
-     @bookmark = current_user.bookmarks.find(params[:id])
+    @bookmark = current_user.bookmarks.find(params[:id])
   end
-  
+
   def new
     @bookmark = current_user.bookmarks.build
   end
@@ -21,7 +21,7 @@ class BookmarksController < ApplicationController
   def create
     @bookmark = current_user.bookmarks.build(params[:bookmark])
     if @bookmark.save
-      redirect_to bookmarks_path, notice: 'Favorit wurde erfolgreich angelegt.'
+      redirect_to bookmarks_path, notice: t("messages.new_bookmark")
     else
       render "new"
     end
@@ -30,7 +30,7 @@ class BookmarksController < ApplicationController
   def update
     @bookmark = current_user.bookmarks.find(params[:id])
     if @bookmark.update_attributes(params[:bookmark])
-      redirect_to bookmarks_path, notice: 'Favorit wurde erfolg- reich geändert.'
+      redirect_to bookmarks_path, notice: t("messages.edit_bookmark")
     else
       render "edit"
     end
@@ -39,14 +39,14 @@ class BookmarksController < ApplicationController
   def destroy
     @bookmark = current_user.bookmarks.find(params[:id])
     @bookmark.destroy
-    redirect_to bookmarks_url, notice: 'Favorit wurde erfolgreich gelöscht.'
-  end  
-
+    redirect_to bookmarks_url, notice: t("messages.delete_bookmark")
+  end
+  
   private
   
   def require_login
     unless user_signed_in?
-      redirect_to login_path, alert: "Bitte melden Sie sich zuerst an."
+      redirect_to login_path, alert: t("messages.not_logged_in")
     end
   end
 end

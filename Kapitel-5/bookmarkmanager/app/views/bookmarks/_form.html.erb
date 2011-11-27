@@ -1,11 +1,13 @@
 <%= form_for(@bookmark) do |f| %>
-  <% if @bookmark.errors.any? %> 
+
+  <% if @bookmark.errors.any? %>
     <ul>
     <% @bookmark.errors.full_messages.each do |msg| %>
       <li><%= msg %></li>
     <% end %>
     </ul>
   <% end %>
+  
   <p>
     <%= f.label :title %>
     <%= f.text_field :title %>

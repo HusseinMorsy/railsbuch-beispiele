@@ -1,4 +1,5 @@
-<h2>Neuen Benutzer anlegen</h2>
+<h2><%= t("text.new_user") %></h2>
+
 <%= form_for @user do |f| %>
   <% if @user.errors.any? %>
     <ul>
@@ -20,4 +21,4 @@
     <%= f.password_field :password_confirmation %>
   </p>
   <p><%= f.submit %></p>
-<% end %>    
+<% end %>

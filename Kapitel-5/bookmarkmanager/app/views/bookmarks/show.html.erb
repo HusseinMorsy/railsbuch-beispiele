@@ -1,27 +1,28 @@
-<h2>Detail zum Favorit</h2>
+<h2><%= t("text.detail_bookmark") %></h2>
 
 <p>
-  <b>Titel:</b>
+  <b><%= t("activerecord.attributes.bookmark.title") %>:</b>
   <%= @bookmark.title %>
 </p>
 
 <p>
-  <b>URL:</b>
+  <b><%= t("activerecord.attributes.bookmark.url") %>:</b>
   <%= @bookmark.url %>
 </p>
+
 <p>
-  <b>Kommentar:</b>
+  <b><%= t("activerecord.attributes.bookmark.comment") %>:</b>
   <%= @bookmark.comment %>
 </p>
 
 <p>
-  <b>Erstellt am:</b>
-  <%= @bookmark.created_at %>
+  <b><%= t("activerecord.attributes.bookmark.created_at") %>:</b>
+  <%= l @bookmark.created_at, format: :short %>
 </p>
 
 <p>
-  <b>Geändert am:</b>
-  <%= @bookmark.updated_at %>
+  <b><%= t("activerecord.attributes.bookmark.updated_at") %>:</b>
+  <%= l @bookmark.updated_at, format: :short %>
 </p>
 
 <%= back_to_list %>

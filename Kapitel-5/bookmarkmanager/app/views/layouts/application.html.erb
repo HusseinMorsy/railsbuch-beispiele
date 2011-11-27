@@ -9,28 +9,31 @@
 <body>
   <div id="container">
     <div id="header">
-      <h1>Meine Linksammlung</h1>
+      <h1><%= t("text.my_bookmarks") %></h1>
     </div>
     <div id="content">
-      <% if flash[:notice] %>
+       <% if flash[:notice] %>
         <p id="notice">
           <%= flash[:notice] %>
         </p>
-      <% end %>
-      <% if flash[:alert] %>
-        <p id="alert">
-          <%= flash[:alert] %>
-        </p>
-      <% end %>
+        <% end %>
+        <% if flash[:alert] %>
+         <p id="alert">
+           <%= flash[:alert] %>
+         </p>
+         <% end %>
       <%= yield %>
     </div>
     <div id="footer">
-      &copy; 2011 |
+      &copy; 2011 | 
       <% if user_signed_in? %>
-        <%= link_to "logout", logout_path, method: :delete %>
+        <%= link_to t("links.logout"), logout_path, method: :delete %>
       <% else %>
-        <%= link_to "login", login_path %>
+        <%= link_to t("links.login"), login_path %>
       <% end %>
+      <div id="locales">
+        <%= link_to "deutsch", locale_path('de') %> |
+        <%= link_to "english", locale_path('en') %>
     </div>
   </div>
 </body>

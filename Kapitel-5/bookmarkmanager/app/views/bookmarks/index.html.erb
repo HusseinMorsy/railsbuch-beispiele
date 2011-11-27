@@ -1,7 +1,9 @@
-<% @title = "Liste" %>
-<h2>Liste der Favoriten</h2>
+<% @title = t("text.list") %>
+<h2><%= t("text.list_of_bookmarks") %></h2>
 <ul>
-<%= render @bookmarks %>
+  <%= render @bookmarks %>
 </ul>
 
-<p><%= link_to "Neuen Favorit erstellen", new_bookmark_path %></p>
+<p>
+<%= link_to t("links.new_bookmark"), new_bookmark_path %>
+</p>

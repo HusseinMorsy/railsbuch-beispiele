@@ -1,11 +1,13 @@
 Bookmarkmanager::Application.routes.draw do
 
-  resources :bookmarks
-  resources :users, only: [:new, :create]
-  
-  get "login" => "sessions#new", as: "login"
-  post "sessions" => "sessions#create", as: "sessions"
-  delete "logout" => "sessions#destroy", as: "logout"  
+  scope "(:locale)", locale: /en|de/ do
+    resources :bookmarks
+    resources :users, only: [:new, :create]
+    get "login" => "sessions#new", as: "login"
+    post "sessions" => "sessions#create", as: "sessions"
+    delete "logout" => "sessions#destroy", as: "logout"
+  end
+  get '/:locale' => 'pages#home'
   root to: 'pages#home'
   
   # Der Eintrag >>resources :bookmarks<< ist eine Abkürzung für:

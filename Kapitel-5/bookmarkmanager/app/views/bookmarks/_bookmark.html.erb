@@ -1,8 +1,6 @@
 <li>
-  <%= link_to bookmark.title, bookmark.url %>
-  (<%= link_to "Details", bookmark_path(bookmark) %> |
-  <%= link_to "ändern", edit_bookmark_path(bookmark) %> |
-  <%= link_to 'löschen', bookmark,
-      confirm: 'Wollen Sie diesen Datensatz wirklich löschen?',
-      method: :delete %>)
+  <%= link_to bookmark.title, bookmark.url %> 
+  (<%= link_to t("links.detail_bookmarks"), bookmark_path(bookmark) %> |
+  <%= link_to t("links.edit_bookmark"), edit_bookmark_path(bookmark) %> |
+  <%= link_to t("links.delete_bookmark"), bookmark, confirm: t('messages.confirm_delete'), method: :delete %>)
 </li>
