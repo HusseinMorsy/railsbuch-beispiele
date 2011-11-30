@@ -1,0 +1,3 @@
+$('table').append('<%= j render @bookmark %>');
+$('#<%= dom_id(@bookmark) %>').effect('highlight',{}, 2000);
+$('form :text').val("");
