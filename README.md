@@ -2,15 +2,13 @@
 
 In diesem Repository befinden sich die Beispielprojekte zum Buch *Ruby on Rails 3.1* von Hussein Morsy und Tanja Otto erschienen 2012 im Galileo-Press Verlag.
 
-
 ## Vorraussetzungen ##
-
 
 Um die Beispiele ausführen zu können, wird Ruby 1.9.2 oder 1.9.3 und SQLite3 benötigt.
 
 ## Download ##
 
-Sie können entweder das  Git-Repository aller Projekte mit `git clone git://github.com/HusseinMorsy/railsbuch-beispiele.git` herunterladen oder einfach die [Zip-Datei] herunterladen.
+Sie können entweder das  Git-Repository aller Projekte mit `git clone git://github.com/HusseinMorsy/railsbuch-beispiele.git` herunterladen oder einfach die [Zip-Datei][zip] herunterladen.
 
 ## Ausführen ##
 
@@ -24,7 +22,7 @@ Um die Beispiel ausführen zu können, wechseln Sie zunächst in das entsprechen
 
 * Kapitel-03 Unsere erste Rails-Applikation
 	* employees
-* Kapitel-05 Rails Schritt für Schritt endecken
+* Kapitel-05 Rails Schritt für Schritt entdecken
 	* bookmarkmanager
 	* bookmarkmanager_ohne_i18n
 * Kapitel-06 Testen mit Cucumber
@@ -45,3 +43,5 @@ Um die Beispiel ausführen zu können, wechseln Sie zunächst in das entsprechen
 	* bookmakrs_ajax
 * Kapitel-17  Sicherheit, Deployment und Optimierung durch Caching
 	* caching_demo
+
+[zip]:https://github.com/HusseinMorsy/railsbuch-beispiele/zipball/master
